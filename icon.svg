@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Piano keyboard</title>
+  <rect width="512" height="512" rx="96" fill="#4a6fff"/>
+  <rect x="72" y="128" width="368" height="256" rx="24" fill="#fff"/>
+  <g stroke="#222" stroke-width="8">
+    <path d="M164 128v256M256 128v256M348 128v256"/>
+  </g>
+  <g fill="#222">
+    <path d="M130 128h60v144c0 15-12 28-28 28h-4c-16 0-28-13-28-28z"/>
+    <path d="M222 128h68v144c0 15-12 28-28 28h-12c-16 0-28-13-28-28z"/>
+    <path d="M322 128h60v144c0 15-12 28-28 28h-4c-16 0-28-13-28-28z"/>
+  </g>
+</svg>
